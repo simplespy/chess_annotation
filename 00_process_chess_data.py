@@ -7,7 +7,7 @@ from datasets import load_dataset
 from tqdm import tqdm
 import random
 # --- Configuration ---
-OUTPUT_FILE = "chess_reasoning_gold.jsonl"
+OUTPUT_FILE = "data/chess_annotation_filtered.jsonl"
 MIN_WORD_COUNT = 5 
 BAD_KEYWORDS = [
     "click", "subscribe", "video", "chapter", "lichess", "study", 
@@ -174,5 +174,5 @@ def keep_tagged_dataset():
                 f_out.write(json.dumps(entry) + "\n")
 
 if __name__ == "__main__":
-    #process_dataset()
-    keep_tagged_dataset()
+    process_dataset()
+    #keep_tagged_dataset()
