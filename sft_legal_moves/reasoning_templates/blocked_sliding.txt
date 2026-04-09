@@ -1,0 +1,1 @@
+Consider the move {move}. The {piece_name} on {from_square} cannot reach {dest_square} because {blocker_desc} is in the way. This is illegal.

@@ -1,0 +1,1 @@
+Consider the move {move}. The pawn cannot promote by pushing forward because {dest_square} is occupied by {blocking_piece}. This is illegal.

@@ -1,0 +1,1 @@
+Consider the move {move}. This is en passant, capturing the pawn on {captured_square}. However, removing both pawns from this rank would expose the king to {attacker_desc}. This is illegal.

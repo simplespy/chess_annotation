@@ -1,0 +1,1 @@
+Consider the move {move}. This looks like an en passant capture, but the pawn on {adjacent_pawn_square} did not just advance two squares. En passant is only possible immediately after the opponent's pawn double-pushes. This is illegal.

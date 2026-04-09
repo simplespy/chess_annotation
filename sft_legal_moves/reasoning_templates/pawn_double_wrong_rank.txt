@@ -1,0 +1,1 @@
+Consider the move {move}. Pawns can only advance two squares from their starting rank. The pawn on {from_square} is not on its starting rank, so this is illegal.

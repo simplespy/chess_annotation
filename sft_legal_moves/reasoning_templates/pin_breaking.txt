@@ -1,0 +1,1 @@
+Consider the move {move}. The {piece_name} on {from_square} is pinned to the king by {pinner_desc}. Moving it off the pin ray would expose the king to check, so this is illegal.

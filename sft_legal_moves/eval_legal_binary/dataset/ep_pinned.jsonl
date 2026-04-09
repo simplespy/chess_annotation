@@ -1,0 +1,3 @@
+{"fen": "3r4/5k2/8/KpP4q/P5b1/8/8/8 w - b6 0 44", "move_uci": "c5b6", "move_san": "cxb6", "label": "illegal", "category": "en_passant", "subcategory": "ep_pinned", "phase": "endgame"}
+{"fen": "7Q/3r2K1/4p3/P2kPp2/8/2B5/1P6/8 w - f6 0 44", "move_uci": "e5f6", "move_san": "exf6", "label": "illegal", "category": "en_passant", "subcategory": "ep_pinned", "phase": "endgame"}
+{"fen": "2k5/8/7p/KPp1r2P/2P5/1P6/5R1R/8 w - c6 0 46", "move_uci": "b5c6", "move_san": "bxc6", "label": "illegal", "category": "en_passant", "subcategory": "ep_pinned", "phase": "endgame"}

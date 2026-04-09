@@ -1,0 +1,1 @@
+Consider the move {move}. This is a diagonal pawn move to {dest_square}, but there is no piece to capture there and it is not the en passant square. This is illegal.

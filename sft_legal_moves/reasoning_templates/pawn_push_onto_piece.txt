@@ -1,0 +1,1 @@
+Consider the move {move}. The pawn cannot push forward to {dest_square} because it is occupied by {blocking_piece}. Pawns capture diagonally, not forward. This is illegal.

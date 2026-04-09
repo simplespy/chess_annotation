@@ -1,0 +1,1 @@
+Consider the move {move}. The king is in double check (from {checker1} and {checker2}). In double check, only king moves are legal -- I cannot block or capture both checkers at once. So this is illegal.

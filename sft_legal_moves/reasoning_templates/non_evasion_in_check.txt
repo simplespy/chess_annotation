@@ -1,0 +1,1 @@
+Consider the move {move}. The king is in check from {checker_desc}. This {piece_name} move does not capture the checking piece, block the check, or move the king. When in check, I must address the check. This is illegal.

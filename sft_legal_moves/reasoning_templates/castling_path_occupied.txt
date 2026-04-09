@@ -1,0 +1,1 @@
+Consider the move {move}. This is castling, but {blocker_desc} is between the king and rook. All squares between the king and rook must be empty to castle. This is illegal.

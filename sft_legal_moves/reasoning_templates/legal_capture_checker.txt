@@ -1,0 +1,1 @@
+Consider the move {move}. The king is in check from {checker_desc}. The {piece_name} captures the checking piece, resolving the check. This is legal.

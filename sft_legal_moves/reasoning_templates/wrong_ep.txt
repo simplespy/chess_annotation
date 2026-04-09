@@ -1,0 +1,1 @@
+Consider the move {move}. This looks like an en passant capture behind the pawn on {adjacent_pawn_square}, but en passant is not available in this position. En passant can only be played immediately after the opponent's pawn advances two squares. This is illegal.

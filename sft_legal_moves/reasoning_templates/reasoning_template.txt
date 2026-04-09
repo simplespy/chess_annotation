@@ -1,0 +1,13 @@
+<think>
+The current position is: {fen}.
+The previous move was {last_move}. It is {turn_color}'s turn.
+
+I need to determine which of these candidate moves are legal: {candidates}
+
+{candidate_analysis}
+
+From the candidates, the legal moves are: {legal_moves}
+</think>
+<answer>
+\boxed{{{legal_moves}}}
+</answer>

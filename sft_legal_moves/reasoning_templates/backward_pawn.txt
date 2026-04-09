@@ -1,0 +1,1 @@
+Consider the move {move}. Pawns cannot move backward. This is illegal.

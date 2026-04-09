@@ -1,0 +1,58 @@
+{
+  "legal": {
+    "legal": [
+      "legal_move",
+      "legal_capture",
+      "legal_castling",
+      "legal_en_passant",
+      "legal_promotion",
+      "legal_check",
+      "legal_king_escape",
+      "legal_capture_checker",
+      "legal_block_check"
+    ]
+  },
+  "illegal": {
+    "check_evasion": [
+      "non_evasion_in_check",
+      "non_king_double_check"
+    ],
+    "king": [
+      "king_to_attacked",
+      "castling_in_check",
+      "castling_through_attacked",
+      "castling_path_occupied",
+      "castling_no_rights",
+      "wrong_geometry_king"
+    ],
+    "pin": [
+      "pin_breaking"
+    ],
+    "pawn": [
+      "backward_pawn",
+      "pawn_double_wrong_rank",
+      "pawn_double_push_blocked",
+      "pawn_push_onto_piece",
+      "pawn_diagonal_to_empty",
+      "pawn_capture_friendly"
+    ],
+    "en_passant": [
+      "ep_fake_diagonal",
+      "ep_wrong_pawn",
+      "wrong_ep",
+      "ep_pinned"
+    ],
+    "promotion": [
+      "promo_push_blocked",
+      "promo_capture_empty"
+    ],
+    "piece_movement": [
+      "friendly_fire",
+      "blocked_sliding",
+      "wrong_geometry_knight",
+      "wrong_geometry_bishop",
+      "wrong_geometry_rook",
+      "wrong_geometry_queen"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+Consider the move {move}. The {piece_name} cannot capture its own {target_piece} on {dest_square}. This is illegal.

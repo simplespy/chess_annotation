@@ -1,0 +1,1 @@
+Consider the move {move}. This is a diagonal promotion capture to {dest_square}, but there is no piece to capture there. Pawns can only capture diagonally, not move diagonally to empty squares. This is illegal.

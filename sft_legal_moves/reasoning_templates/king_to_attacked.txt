@@ -1,0 +1,1 @@
+Consider the move {move}. This moves the king to {dest_square}, which is controlled by {attacker_desc}. Moving the king to an attacked square is illegal.

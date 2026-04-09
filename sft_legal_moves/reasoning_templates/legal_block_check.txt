@@ -1,0 +1,1 @@
+Consider the move {move}. The king is in check from {checker_desc}. The {piece_name} moves to {dest_square}, blocking the line of attack. This is legal.

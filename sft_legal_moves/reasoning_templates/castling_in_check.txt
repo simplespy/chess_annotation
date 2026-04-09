@@ -1,0 +1,1 @@
+Consider the move {move}. This is castling, but the king is currently in check. I cannot castle while in check, so this is illegal.

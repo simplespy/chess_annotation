@@ -1,0 +1,60 @@
+{
+  "square_contents": [
+    "piece_on_square",
+    "is_square_occupied",
+    "color_on_square"
+  ],
+  "piece_counting": [
+    "count_piece_type",
+    "count_color_pieces",
+    "count_all_pieces"
+  ],
+  "piece_location": [
+    "king_square",
+    "list_piece_squares",
+    "is_piece_on_square"
+  ],
+  "material": [
+    "which_side_more_material",
+    "material_value",
+    "is_material_equal"
+  ],
+  "rank_file": [
+    "count_on_rank",
+    "count_on_file",
+    "is_file_open",
+    "is_file_half_open"
+  ],
+  "pawn_structure": [
+    "doubled_pawns",
+    "isolated_pawn",
+    "pawn_islands",
+    "passed_pawn"
+  ],
+  "metadata": [
+    "side_to_move",
+    "can_castle_kingside",
+    "can_castle_queenside",
+    "en_passant_square",
+    "fullmove_number",
+    "halfmove_clock"
+  ],
+  "spatial": [
+    "pieces_between",
+    "same_rank",
+    "same_file"
+  ],
+  "checks_attacks": [
+    "is_in_check",
+    "attackers_of_square",
+    "is_square_attacked"
+  ],
+  "board_geometry": [
+    "square_color",
+    "bishop_pair",
+    "bishop_square_colors"
+  ],
+  "after_move": [
+    "en_passant_after_move"
+  ]
+}

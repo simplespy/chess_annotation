@@ -1,0 +1,1 @@
+Consider the move {move}. A {piece_name} cannot move this way -- {geometry_reason}. This is illegal.

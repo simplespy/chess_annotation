@@ -1,0 +1,1 @@
+Consider the move {move}. This is castling, but the {lost_piece} has already moved, so castling rights have been lost. This is illegal.

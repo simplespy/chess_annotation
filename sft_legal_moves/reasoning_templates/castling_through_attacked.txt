@@ -1,0 +1,1 @@
+Consider the move {move}. This is castling, but {attacked_square} is controlled by {attacker_desc}. The king cannot pass through or land on an attacked square while castling, so this is illegal.

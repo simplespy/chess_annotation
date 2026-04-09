@@ -1,0 +1,1 @@
+Consider the move {move}. This is a double pawn push, but {blocker_desc} is blocking the path on {mid_square}. Pawns cannot jump over pieces. This is illegal.
